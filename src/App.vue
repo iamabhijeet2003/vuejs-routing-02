@@ -31,7 +31,7 @@
     </div>  
 
     <!-- Footer -->
-    <footer class="bg-primary text-white position-absolute bottom-0 container-fluid">
+    <footer class="bg-primary text-white position-relative bottom-0 container-fluid mt-5">
         
     
         <div class="text-center p-2 d-flex justify-content-between" style="background-color: rgba(0, 0, 0, 0.2)">
